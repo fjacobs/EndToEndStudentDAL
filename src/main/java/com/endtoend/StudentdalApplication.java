@@ -1,4 +1,4 @@
-package com.endtoend.student.dal;
+package com.endtoend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
